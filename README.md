@@ -1,3 +1,7 @@
+# DEPRECATION WARNING
+
+**THIS PROJECT IS NO LONGER SUPPORTED. YOU SHOULD USE THE [bouzuya/hubot-backlog-issue-preview](https://github.com/bouzuya/hubot-backlog-issue-preview) INSTEAD.**
+
 # hubot-backlog-issue
 
 A Hubot script that display backlog issue
